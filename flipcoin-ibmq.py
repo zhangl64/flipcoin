@@ -124,7 +124,7 @@ if __name__ == '__main__':
     #       'Quantum wins!' if o != g else 'Classical wins!')
 
     # Then run the full experiment
-    trials = 2
+    trials = 10
     q_wins, c_wins = run_experiment(trials)
 
     # Plot results
