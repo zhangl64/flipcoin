@@ -175,3 +175,4 @@ cython_debug/
 
 # custom config
 ibmq.py
+testing/
