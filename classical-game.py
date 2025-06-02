@@ -6,7 +6,7 @@ Type '0' for heads, '1' for tails, or 'exit'/'quit' to stop.
 Press Ctrl+C to exit at any time.
 """
 
-import sys
+# import sys
 import random
 
 def classical_coin_flip() -> int:
